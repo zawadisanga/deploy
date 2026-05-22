@@ -14,10 +14,10 @@
     "multer": "^1.4.5-lts.1",
     "uuid": "^9.0.1",
     "axios": "^1.6.0",
-    "adm-zip": "^0.5.10",
-    "better-sqlite3": "^9.0.0"
+    "adm-zip": "^0.5.10"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": "20.x",
+    "npm": "10.x"
   }
 }
